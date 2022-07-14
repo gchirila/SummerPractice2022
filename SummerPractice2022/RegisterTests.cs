@@ -4,7 +4,7 @@ using System;
 namespace SummerPractice2022
 {
     [TestClass]
-    public class UnitTest1
+    public class RegisterTests
     {
         [TestMethod]
         public void TestMethod1()
