@@ -7,7 +7,7 @@ namespace SummerPractice2022
     public class RegisterTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestMethod()
         {
         }
     }
